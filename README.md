@@ -1,2 +1,2 @@
 # TF-Scan
-Repo for testing TFScan
+Repo for testing TF Scan
